@@ -1,0 +1,20 @@
+const faMessages = {
+  Flight: 'پرواز',
+  'One-Way': 'یک طرفه',
+  'Two-Way': 'دو طرفه',
+  Departure: 'مبدا',
+  Arrival: 'مقصد',
+  'Departure Date': 'تاریخ رفت',
+  'Arrival Date': 'تاریخ برگشت',
+  Adults: 'بزرگسالان',
+  Children: 'کودکان',
+  Infants: 'نوزادان',
+  Search: 'جستجو',
+  'menu.apps': 'برنامه ها',
+  'menu.flightsearch': 'جستجوی پرواز',
+  'Train': 'قطار',
+  Bus: 'اتوبوس',
+  Car: 'خودرو',
+  Hotel: 'هتل',
+};
+export default faMessages;
